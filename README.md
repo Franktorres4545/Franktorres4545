@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Franktorres4545
+- 👀 I’m interested in ...hackintosh
+- 🌱 I’m currently learning ...opencore
